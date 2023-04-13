@@ -1,0 +1,1 @@
+Sadece ReactImageChange klasöründe node_modules klasörü bulunur.Bu klasör fazla büyük olduğundan diğer projelere yüklenmemiştir.Eğer diğer projeleri çalıştırmak istersen o klasörüden diğer projeye copy paste yapıp o şekilde çalıştırabilir.
